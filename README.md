@@ -22,7 +22,7 @@
 ## Part 2 - Data Anlaysis, Data Preparation and fitting Machine Learning models  according to the nature of the dataset 
              2.1 Data Analysis,Preparation and Model comparison on real Dataset 
                    2.1.1 This folder consists of "PIMA" dataset, cleaned dataset after data cleaning operation and python notebook. 
-                   2.1.2 The notebook has explanation to both python code and indepth analysis on data preparation steps i.e. it covers performing                                    exploratory analysis, statistcal measures and based on such analsyis we are going to choose one preparation step over the other. 
+                   2.1.2 The notebook has explanation to both python code and indepth analysis on data preparation steps i.e. it covers performing  exploratory analysis, statistcal measures and based on such analsyis we are going to choose one preparation step over the other. 
                    2.1.3 After step 2.1.2, the next part then makes the some learning algorithm learn from the cleaned and transformed dataset and then                                compares the accuracy score of each algorithm in order to select the best machine learning model for application in that particular                          dataset.
                    2.1.4 Also Confusion Matrix is used in one of the model evaluation to determine number of true and false positves as well as true and                             false negatives in unseen dataset to identify the real performance of the model in the test dataset.Then a heatmap plot of the                               confusion matrix is plotted.   
                    
