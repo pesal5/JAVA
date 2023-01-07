@@ -11,7 +11,7 @@ class JDB_CMS implements ActionListener
 {
             
        
-                                       /*global declaraion of these varaibles for use by action listener methods */
+                          /*global declaration of these five variables for use by methods outside of constructor JDB_CMS()*/
    
    JTextField tx1 = new JTextField();    //  create 1st text field  for "Name:" 
    JTextField tx2 = new JTextField();    //  create 2nd text field  for "Acccount Number" 
@@ -69,7 +69,7 @@ class JDB_CMS implements ActionListener
        Btn1.addActionListener(this);        // register the button click as event trigger 
          
        
-     //  JButton Btn2 = new JButton("SHOW TABLE'S CURRENT FILED VALUES"); // create DELETE button 
+     //  JButton Btn2 = new JButton("SHOW TABLE'S CURRENT FILED VALUES"); // create button to get all data rows from the database table 
        Btn2.setBounds (390,140,300,30);
        jfrm.add(Btn2);   
        Btn2.addActionListener(this);
