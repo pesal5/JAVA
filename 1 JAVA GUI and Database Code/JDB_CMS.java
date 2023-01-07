@@ -17,7 +17,7 @@ class JDB_CMS implements ActionListener
    JTextField tx2 = new JTextField();    //  create 2nd text field  for "Acccount Number" 
    JTextField tx3 = new JTextField();    //  create 3rd text field  for "Amount" 
    JButton Btn1 = new JButton("INSERT"); // create INSERT button 
-   JButton Btn2 = new JButton("SHOW TABLE'S CURRENT FILED VALUES"); // create DELETE button 
+   JButton Btn2 = new JButton("SHOW TABLE'S CURRENT FILED VALUES"); // Create button to get all data rows from the database table 
 
 
   JDB_CMS()
