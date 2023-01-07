@@ -28,17 +28,18 @@
                    
               2.2  Feature Representation Modern vs Conventional-An application of eigen value and vector
                    2.2.1 In this folder ,Face detection using Eigen faces algorithm is implemented. The assocuated theiry and dataset is within this folder.
-                   2.2.2 This lab work was done as part of my participation in "2nd Nepal WinterSchool In AI 2019 DECEMBER 10-20,Pokhara" conducted by NAAMII  NEPAL. [Second Nepal Winter School in AI] (https://2nepalschool.naamii.com.np/) 
+                   2.2.2 This lab work was done as part of my participation in "2nd Nepal WinterSchool In AI 2019 DECEMBER 10-20,Pokhara" conducted by NAAMII  NEPAL. [Second Nepal Winter School in AI](https://2nepalschool.naamii.com.np/) 
                  
               2.3. Bayesian Classifier Spam Detection 
                    2.3.1 This folder contains the spam email text dataset. The purpose for choosing this dataset is to play with the text data for data       preparation tasks and then feed the cleaned dataset into NavieBayes Classifier to identify the sample text as email or spam.   
                    2.3.2 Naaive Bayes Algorithm is used as a learning model and the jupyter notebook also contains code explanation  as well as the          mathematical details and calculations for data preprocessing and model learning.   
              
              2.4 Linear Models
-                  2.4.1 This folder contains SAARC dataset of Nepal's literacy rate for 72 districts and the linear regression algorithm need to predict the literacy rate of some districts isloated as test set, then compare how much accurcy rate of the model predicted  output against the actual value.                       
+                  2.4.1 This folder contains SAARC dataset of Nepal's literacy rate for 72 districts and the linear regression algorithm need to predict the literacy rate of some districts isloated as test set, then compare how much is accuracy rate of the model predicted  output against the actual value.                       
                   2.4.2. The other python file contains the code and necessray theory to train the Logistic Regression model on "Titanic" dataset.
                   2.4.3  In both of the above model's dataset, data preprocessing and model evalaution is performed and explained. Also in both of the     learning models we emphasized on why accuracy can't solely be considered for model evaluation regardless of its high score. This idea has opened a new perpective on model's performance based on Accuracy, Precision and Recall. 
-                  2.4.5 Both of these tasks were my completed lab works during participation in "2nd Nepal WinterSchool In AI 2019 DECEMBER 10-20,Pokhara"   conducted by NAAMII NEPAL. [NAAMII](https://www.naamii.org.np/) 
+                  2.4.5 Both of these tasks were my completed lab works during participation in "2nd Nepal WinterSchool In AI 2019 DECEMBER 10-20,Pokhara"   conducted by NAAMII NEPAL. [NAAMII](https://www.naamii.org.np/)
+
              
              
                   
