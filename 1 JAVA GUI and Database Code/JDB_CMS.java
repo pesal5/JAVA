@@ -116,36 +116,14 @@ class JDB_CMS implements ActionListener
                 
 
 
-                  catch(Exception e) 
+                       catch(Exception e) 
                   
-                  {
+                     {
                        JOptionPane.showMessageDialog(null, e);
-                   }
+                     }
             
-              }     
-              /*  if(ae.source == Btn2)
-
-
-                    {
-                          
-                              String sql1="SELECT * FROM Accountslist";
-                              ResultSet RST=st.executeQuery(sql1);
-                              
-                              System.out.println("AccountNo\t"+"Name\t"+"Amount");
-
-                              while(RST.next()) 
-
-                                 {
-                                        String AccountNo = RST.getString(1);
-                                        String Names= RST.getString(2);
-                                        String Amounts= RST.getString(3);
-
-                                       System.out.println(AccountNo+"\t"+Name+"\t"+Amount);
-                                  }
-
-
-                      }  */
-
+                 }     
+               
 
 
 
